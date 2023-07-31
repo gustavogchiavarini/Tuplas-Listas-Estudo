@@ -1,2 +1,3 @@
-# Tuplas | Listas  Estudo 
+# Tuplas | Listas - Estudo 
  Análise de dados com tupla
+
